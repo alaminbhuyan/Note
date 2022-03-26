@@ -1,0 +1,32 @@
+
+*** Open-CV
+================================================
+
+1) Indian AI Production:
+
+	a) OpenCV playlist:(1-29): 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,20,24,25,28,29
+
+	b) OpenCV Project: (1-11):  1,2,3,4,5,6,7,8,9,10
+
+	c) Computer Vision Projects: (1-21):  1,2,3,4,8,9,10,11,12,13,14,15,16,18,19
+
+	d) Deep Learning Project End to End:(1-39): 
+
+	e) Data Science Project:(1-69): 
+
+	f) Horse or Human Prediction Computer Vision:(1-8): 
+
+
+2) Murtaza's Workshop:
+
+	a) Advance Computer Vision playlist:(5): 4,
+	
+	b) OpenCV Python Tutorials for Beginners 2020:(20): 1,2,3,4,5,6,7,8,9,14
+	
+	c) Angle Finder OpenCV:(3): 1, 2, 3
+
+	d) Yolo v3 | OpenCV Python:(4): 
+
+	e) Courses:(7): 
+
+	f) Augmented Reality using OpenCV Python (2020):(3): 

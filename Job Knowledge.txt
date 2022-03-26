@@ -1,0 +1,7 @@
+
+Programming: Python, JavsScript, TypeScript, (Java), (PHP)
+
+Framework: React js, Next js, Angular js, Node js, Django, (Laravel).
+
+Database: MySQL, PostgraySQL, MongoDB
+
