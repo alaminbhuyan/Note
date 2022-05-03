@@ -1,1 +1,7 @@
 https://www.kaggle.com/shawamar/product-recommendation-system-for-e-commerce/data
+
+1) Face Mask Detection (Done)
+
+2) Face detection and auto attendence system [Done]
+
+3) Face identification from Image and video [Done]
