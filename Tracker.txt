@@ -49,3 +49,11 @@
 	3) Computer Vision Project:(21) 1,2,3,4,8,9,10,11,12,13,14,15,16,17,18,19,
 
 	4) OpenCV Project:(11): 1,2,3,4,5,6,7,8,9,10,
+
+3) Krish Naik:
+	
+	1) Recommendation Systems:(8): 1,2,3,4,8
+
+	2) Feature Engineering:(16): 
+
+	3) Feature Selection: (6): 
