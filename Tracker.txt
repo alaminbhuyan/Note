@@ -52,7 +52,7 @@
 
 3) Krish Naik:
 	
-	1) Recommendation Systems:(8): 1,2,3,4,8
+	1) Recommendation Systems:(8): 1,2,3,4,5,8
 
 	2) Feature Engineering:(16): 
 

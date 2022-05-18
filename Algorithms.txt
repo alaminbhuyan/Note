@@ -1,0 +1,36 @@
+1) Regression:
+**********************************************************************************
+
+1) LinearRegression
+
+2) DecisionTreeRegressor
+
+3) SVR (support vector regressor)
+
+4) RandomForestRegressor
+
+5) KNeighborsRegressor
+
+
+2) Classification:
+**********************************************************************************
+
+1) DecisionTreeClassifier
+
+2) SVC (support vector classification)
+
+3) RandomForestClassifier
+
+4) KNeighborsClassifier
+
+5) GaussianNB,BernoulliNB,MultinomialNB
+
+6) LogisticRegression
+
+
+3) Unsupervised Learning
+**********************************************************************************
+
+1) KMean Clustering
+
+2) Hierarchical Clustering

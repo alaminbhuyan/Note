@@ -1,0 +1,95 @@
+
+*** How much maths do you need to know to become a data scientist?
+
+**** Linear Algebra
+----------------------
+1) Vectors
+
+2) Matrices
+
+3) Transpose of a Matrix
+
+4) Inverse of a matrix
+
+5) Determinant of a matrix
+
+6) Trace of a matrix
+
+7) Dot product
+
+8) Eigenvalues
+
+9) Eigenvectors
+
+10) Single Value Decomposition
+
+
+
+**** Calculus
+----------------------
+1) Chain rule of differentiation
+
+2) Partial Derivatives
+
+3) Integrations
+
+4) Beta and gamma functions
+
+5) Functions of multiple variable, continuity, partial derivatives
+
+6) Variants of optimizers
+
+7) Loss functions
+
+8) Back Propagation
+
+9) Minima and Maxima
+
+
+**** Statistics
+----------------------
+---> Basic Statistics
+
+1) Introduction to basic terms
+
+2) Variables
+
+3) Random variables
+
+4) Population, Sample, Population Mean, Sample Mean
+
+5) Population Distribution, Sample Distribution and Sampling Distribution
+
+6) Mean, Median, Mode
+
+7) Range
+
+8) Measure of Dispersion
+
+9) Variance
+
+10) Gaussian or Normal Distribution
+
+
+---> Advanced Statistics
+=========================
+
+1) Q-Q plot
+
+2) Chebyshev's inequality
+
+3) Discrete and Continuous Distribution
+
+4) Bernoulli and Binomial Distribution
+
+5) Log normal Distribution
+
+6) Power law distribution
+
+7) Box Cox Transform
+
+8) Poisson Distribution
+
+9) Application of non Gaussian Distribution
+
+10) Z-test, T-test, Chi-square test, Anova test
