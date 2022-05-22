@@ -52,8 +52,24 @@
 
 3) Krish Naik:
 	
-	1) Recommendation Systems:(8): 1,2,3,4,5,8
+	1) Recommendation Systems:(8): 1,2,3,4,5,6,7,8
 
 	2) Feature Engineering:(16): 
 
 	3) Feature Selection: (6): 
+
+	4) Complete Deep Learning:(88): 1,2,3,4
+
+	5) Live Deep Learning Sessions
+
+	6) Live Statistics Playlist
+
+	7) MySQL Playlist
+
+	8) Feature Selection
+
+	9) Statistics in Machine Learning
+
+	10) Feature Engineering
+
+	11) Natural Language Processing
