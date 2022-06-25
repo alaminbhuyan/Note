@@ -3,10 +3,17 @@
 
 2) Hybrid model --> https://www.youtube.com/watch?v=_EyF_O8zuGY&list=PLmPJQXJiMoUUSqSV7jcqGiiypGmQ_ogtb&index=12
 
+3) malicious url detection your google drive and also your download folder
+
+
+
+
+
+
 
 
 Excel:
-
+------
 https://www.youtube.com/playlist?list=PLc238vLLBwmS6EniVK3NHipPjyRMKyBVu
 
 https://www.youtube.com/playlist?list=PLb_aDTKCy4z0QiUz7dHS425umV_rMmR-A
