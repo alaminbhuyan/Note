@@ -34,3 +34,5 @@
 1) KMean Clustering
 
 2) Hierarchical Clustering
+
+3) Association rules mining
