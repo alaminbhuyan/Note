@@ -7,6 +7,10 @@
 
 4) make new classifiy model using deep learning that you have already machine learning
 
+5) **** Auto text generation (see your pdf)
+
+6) Data augmentation
+
 
 
 
